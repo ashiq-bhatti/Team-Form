@@ -1,0 +1,20 @@
+.navbar{
+    background-color: black;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    padding: 16px;
+
+}
+li a{
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+}
+li a:hover{
+    font-size: 20px;
+    color: orange;
+}

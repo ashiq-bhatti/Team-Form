@@ -1,0 +1,44 @@
+/* .card-container{
+    padding-top: 120px;
+    display: flex;
+    justify-content: center;
+}
+.sign-card{
+    display: flex;
+    justify-content: center;
+    height: 300px;
+    width: 300px;
+    background-color: white;
+    border-radius: 9px;
+}
+h2{
+    text-align: center;
+    font-family: cursive;
+    margin-top: 30px;
+
+}
+.lable-input{
+    margin-top: 20px;
+
+}
+input{
+    padding: 8px;
+    border: 2px solid gray;
+    border-radius: 9px;
+    width: 230px;
+
+}
+#submit-btn{
+    padding: 8px 39px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    border-radius: 6px;
+    margin-top: 30px;
+
+}
+#submit-btn:hover{
+    background-color: #fff;
+    color: black;
+    } */
